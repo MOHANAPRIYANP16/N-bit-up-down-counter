@@ -213,14 +213,14 @@ At this stage:
 
 The synthesized netlist represents the logical hardware implementation of the counter.
 
----
+
 **Required files :**
 
 - constraints file (.sdc)
 - design file (.v)
 - script file (.tcl)
 
-
+---
 
 ## 4. Physical Design (Place and Route)
 
