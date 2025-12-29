@@ -32,7 +32,7 @@ An **N-bit up/down counter** is a sequential digital circuit that stores an N-bi
 
 # N-bit Up/Down Counter – Cadence Design Flow
 
-![alt text](https://github.com/MOHANAPRIYANP16/N-bit-up-down-counter/blob/main/IMAGES/design%20flow.png)
+![alt text](image.png)
 
 ## 1. RTL Design
 
