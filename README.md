@@ -194,7 +194,7 @@ endmodule
 
 Simluation waveform :
 
-![alt text](<Screenshot from 2025-12-29 14-53-35.png>)
+![alt text](https://github.com/MOHANAPRIYANP16/N-bit-up-down-counter/blob/main/IMAGES/simulation.png)
 
 
 ---
@@ -241,9 +241,9 @@ This step converts the logical netlist into a manufacturable physical layout.
 
 
 
-![alt text](<Screenshot from 2025-12-29 11-52-01.png>)
+![alt text](https://github.com/MOHANAPRIYANP16/N-bit-up-down-counter/blob/main/IMAGES/physical_design.png)
 
-![alt text](<Screenshot from 2025-12-29 12-56-14.png>)
+![alt text](https://github.com/MOHANAPRIYANP16/N-bit-up-down-counter/blob/main/IMAGES/block_of_counter.png)
 
 ---
 
@@ -260,7 +260,7 @@ The generated GDS contains:
 
 This marks the completion of the RTL-to-GDS semi-custom ASIC design flow.
 
-![alt text](<Screenshot from 2025-12-29 12-19-12.png>)
+![alt text](https://github.com/MOHANAPRIYANP16/N-bit-up-down-counter/blob/main/IMAGES/GDS%20file.png)
 ---
 
 ## Conclusion
