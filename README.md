@@ -32,6 +32,8 @@ An **N-bit up/down counter** is a sequential digital circuit that stores an N-bi
 
 # N-bit Up/Down Counter – Cadence Design Flow
 
+![alt text](<ChatGPT Image Dec 29, 2025, 07_14_31 PM.png>)
+
 ## 1. RTL Design
 
 The design process begins at the **Register Transfer Level (RTL)**, where the functional behavior of the N-bit up/down counter is described using a synthesizable hardware description language (Verilog/SystemVerilog).
